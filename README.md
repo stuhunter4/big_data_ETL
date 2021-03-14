@@ -4,7 +4,6 @@ Created DataFrames using PySpark to match production-ready tables from two big A
 <hr>
 <img src="https://github.com/stuhunter4/big_data_ETL/blob/main/images/pgAdmin_review_id_table.JPG" alt="review">
 <p>Verification for home entertainment reviews in our RDS instance (SQL/verify.sql).  Other similar images in the 'images' folder.</p>
-<img src="https://github.com/stuhunter4/big_data_ETL/blob/main/images/pgAdmin_vine_table.JPG" alt="vine">
 <hr>
 <img src="https://github.com/stuhunter4/big_data_ETL/blob/main/images/sql_helpful_v_total.JPG" alt="sql">
 <p>One of the sample queries looking at the highest helpful votes against total votes for customer reviews, for the most recent year (SQL/query_bias.sql).</p>
